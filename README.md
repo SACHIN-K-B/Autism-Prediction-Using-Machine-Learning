@@ -24,4 +24,4 @@ Install libraries-
 
 * plotly
   
-*scikit_learn
+* scikit_learn
